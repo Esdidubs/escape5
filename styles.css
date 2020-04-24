@@ -163,16 +163,14 @@ body {
 	.thumbs {
 		height: 14rem;
 	}
+	.popup__text {
+		font-size: 1.6rem;
+	}
 }
 
 @media only screen and (max-width: 38rem) {
 	.thumbs {
 		height: 9rem;
-	}
-
-	.popup__text {
-		font-size: 1.6rem;
-		padding: 2rem;
 	}
 }
 
