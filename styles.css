@@ -106,7 +106,7 @@ body {
 	transition: all .5s .2s;
 }
 .popup__text {
-	font-size: 2rem;
+	font-size: 2.4rem;
 	padding: 2rem;
 }
 .popup__img {
@@ -168,6 +168,11 @@ body {
 @media only screen and (max-width: 38rem) {
 	.thumbs {
 		height: 9rem;
+	}
+
+	.popup__text {
+		font-size: 1.6rem;
+		padding: 2rem;
 	}
 }
 
